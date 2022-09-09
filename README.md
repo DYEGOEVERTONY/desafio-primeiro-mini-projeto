@@ -3,4 +3,4 @@
 
  MEU PRIMEIRO PROJETO.
 
- VISITE AQUI:<a href="https://dyegoevertony.github.io/desafio-primeiro-mini-projeto/index.html">MINI PROJETO ANDROID.</a>
+ VISITE AQUI:<a href="https://dyegoevertony.github.io/desafio-primeiro-mini-projeto/index.html" target="_blank">MINI PROJETO ANDROID.</a>
